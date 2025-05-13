@@ -27,9 +27,11 @@ click==8.1.8
 click-didyoumean==0.3.1
 click-plugins==1.1.1
 click-repl==0.3.0
+cloudpickle==3.1.1
 colorama==0.4.6
 configobj==5.0.9
 cryptography==44.0.2
+dask==2025.4.1
 dictdiffer==0.9.0
 diskcache==5.6.3
 distro==1.9.0
@@ -66,6 +68,7 @@ joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2025.4.1
 kombu==5.5.3
+locket==1.0.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
@@ -77,6 +80,7 @@ omegaconf==2.3.0
 orjson==3.10.18
 packaging==24.2
 pandas==2.2.3
+partd==1.4.2
 pathspec==0.12.1
 patsy==1.0.1
 pillow==11.2.1
@@ -129,6 +133,7 @@ tenacity==9.1.2
 threadpoolctl==3.6.0
 toml==0.10.2
 tomlkit==0.13.2
+toolz==1.0.0
 tornado==6.4.2
 tqdm==4.67.1
 typer==0.15.3
