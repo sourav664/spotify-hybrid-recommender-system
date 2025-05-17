@@ -6,7 +6,7 @@ from numpy import load
 from hybrid_recommendation import HybridRecommenderSystem
 
 
-# load the data
+# load the datas
 cleaned_data_path = "data/cleaned_data.csv"
 songs_data = pd.read_csv(cleaned_data_path)
 
