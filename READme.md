@@ -86,29 +86,7 @@ Built a **production-ready recommendation pipeline** using the following technol
 📌 **Note:**  
 This stack enables scalable data processing, systematic experimentation with recommendation strategies and features, automated deployment, and interactive user-facing demonstrations.
 
----
-
-## 🚀 Tech Stack
-
-### 🧠 Machine Learning
-- **Cosine Similarity** – Measures similarity between tracks based on feature vectors  
-- **Collaborative Filtering** – Learns user preferences from user–item interactions  
-- **Content-Based Filtering** – Recommends tracks based on audio and metadata similarity  
-
-
-
----
-### 🐍 Backend & Libraries
-- **Python** – Core programming language for data processing and ML logic  
-- **NumPy** – Efficient numerical computations and array operations  
-- **Pandas** – Data manipulation and analysis  
-- **Scikit-learn** – Machine learning algorithms and similarity computations  
-- **SciPy** – Scientific computing and optimized distance/similarity operations  
-- **Dask** – Parallel and distributed computing for large-scale data processing  
-- **Streamlit** – Interactive web application for showcasing and testing recommendations  
-
----
-
+--- 
 ## ⚡ Large-Scale Data Processing & Optimization
 
 Given the large scale of the dataset (**1M+ user interactions**), special care was taken to ensure efficient computation, memory usage, and scalability.
@@ -134,6 +112,28 @@ Given the large scale of the dataset (**1M+ user interactions**), special care w
 This optimization strategy ensures the recommender system remains **efficient, scalable, and production-ready**, even with very large datasets.
 
 ---
+
+## 🚀 Tech Stack
+
+### 🧠 Machine Learning
+- **Cosine Similarity** – Measures similarity between tracks based on feature vectors  
+- **Collaborative Filtering** – Learns user preferences from user–item interactions  
+- **Content-Based Filtering** – Recommends tracks based on audio and metadata similarity  
+
+
+
+---
+### 🐍 Backend & Libraries
+- **Python** – Core programming language for data processing and ML logic  
+- **NumPy** – Efficient numerical computations and array operations  
+- **Pandas** – Data manipulation and analysis  
+- **Scikit-learn** – Machine learning algorithms and similarity computations  
+- **SciPy** – Scientific computing and optimized distance/similarity operations  
+- **Dask** – Parallel and distributed computing for large-scale data processing  
+- **Streamlit** – Interactive web application for showcasing and testing recommendations  
+
+---
+
 
 ## 📂 Project Structure
 
